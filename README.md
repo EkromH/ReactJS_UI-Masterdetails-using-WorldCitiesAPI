@@ -32,7 +32,8 @@ To get started with the project, follow these steps:
    ```bash
    npm start
 
-#API Used
+# API Used
+
 World Cities API: Provides information about countries and cities. You can find the API documentation here.
 # Project Structure
 * src/
