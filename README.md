@@ -1,3 +1,6 @@
+# Angular UI using API
+https://github.com/EkromH/ASP.NET-Core-API-WorldCitiesAPI.git
+----------------------------------------------------------------
 # ReactJS UI: Master-Detail Using World Cities API
 # Overview
 This project demonstrates a ReactJS application that utilizes the World Cities API to create a master-detail interface. The application allows users to view a list of countries, select a country to view its details, and explore its cities dynamically.
@@ -28,3 +31,13 @@ To get started with the project, follow these steps:
 4. **Run the application:**
    ```bash
    npm start
+
+#API Used
+World Cities API: Provides information about countries and cities. You can find the API documentation here.
+# Project Structure
+* src/
+* components/: Contains React components for the master-detail view.
+* services/: Contains API service files for making HTTP requests.
+* styles/: Contains CSS or styling files.
+* App.js: The main application file.
+* index.js: The entry point for the React application.
